@@ -1,0 +1,26 @@
+<annotation>
+	<folder>med</folder>
+	<filename>206.jpg</filename>
+	<path>C:\Users\MS Tavakoli\Desktop\med\med (206).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medicine name</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>1372</ymin>
+			<xmax>2648</xmax>
+			<ymax>2081</ymax>
+		</bndbox>
+	</object>
+</annotation>
